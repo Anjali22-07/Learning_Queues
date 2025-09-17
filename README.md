@@ -61,5 +61,5 @@ The element inserted first is the one that is removed first.
 
 ---
 ## 📖 References
--[Queues](https://www.youtube.com/watch?v=lXIcS3qXGMY&t=56s)
+- [Queues](https://www.youtube.com/watch?v=lXIcS3qXGMY&t=56s)
 - [Java Queue Documentation](https://docs.oracle.com/javase/8/docs/api/java/util/Queue.html)
